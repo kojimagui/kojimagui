@@ -35,6 +35,10 @@
 [<img align="center" alt="kojima-instagram" height="30" width="30" src="https://image.flaticon.com/icons/png/512/733/733558.png" style="max-width:100%;">](https://www.instagram.com/kojimagui)
 [<img align="center" alt="kojima-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:kojimabr@gmail.com?subject=Contato%20pelo%20Github)
 
+## Sanke eating my contribution graph
+
+![snake gif](https://github.com/kojimagui/kojimagui/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **kojimagui/kojimagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
