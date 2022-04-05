@@ -4,7 +4,11 @@
 
 ### A little of what I've been doing around here:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kojimagui&count_private=true&show_icons=true&theme=white&locale=en&line_height=20) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kojimagui&layout=compact&count_private=true&theme=white&locale=en)
+<div align="center">
+  <a href="https://github.com/kojimagui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kojimagui&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojimagui&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
 
 ### Some languages and technologies that I'm learning and like
 
@@ -15,17 +19,7 @@
 [<img align="center" src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" style="max-width:100%;">](https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html)
 [<img align="center" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" style="max-width:100%;">](https://www.python.org)
 [<img align="center" src="https://img.shields.io/badge/-VueJs-4FC08D?logo=vue.js&logoColor=white&style=flat" style="max-width:100%;">](https://vuejs.org)
-
-[<img align="center" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat" style="max-width:100%;">](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="center" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" style="max-width:100%;">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="center" src="https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat" style="max-width:100%;">](https://www.learn-c.org)
-[<img align="center" src="https://img.shields.io/badge/-C++-4B0082?logo=cplusplus&logoColor=white&style=flat" style="max-width:100%;">](https://www.cplusplus.com)
-[<img align="center" src="https://img.shields.io/badge/-PHP-474A8A?logo=php&logoColor=white&style=flat" style="max-width:100%;">](https://www.php.net)
-[<img align="center" src="https://img.shields.io/badge/-Firebase-323330?logo=firebase&logoColor=FFCA28&style=flat" style="max-width:100%;">](https://firebase.google.com)
-[<img align="center" src="https://img.shields.io/badge/-Cypress-FFFFFF?logo=cypress&logoColor=17202C&style=flat" style="max-width:100%;">](https://www.cypress.io)
-[<img align="center" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" style="max-width:100%;">](https://www.mysql.com)
-
-<!-- Where i found the icons: https://simpleicons.org -->
+  
 
 ## Let's talk!
 
@@ -35,19 +29,4 @@
 [<img align="center" alt="kojima-instagram" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" style="max-width:100%;">](https://www.instagram.com/kojimagui)
 [<img align="center" alt="kojima-email" height="35" width="35" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/256/Gmail-icon.png" style="max-width:100%;">](mailto:kojimabr@gmail.com?subject=Contato%20pelo%20Github)
 
-![Snake animation](https://github.com/kojimagui/kojimagui/blob/output/github-contribution-grid-snake.gif)
-
-<!--
-**kojimagui/kojimagui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/kojimagui/kojimagui/blob/output/github-contribution-grid-snake.svg)
